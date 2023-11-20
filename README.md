@@ -1,4 +1,4 @@
-# Bankruptcy Prevention Classification Project
+# Bankruptcy Prevention Classification 
 
 !['Bankruptcy_cover'](https://www.meatpoultry.com/ext/resources/2023/04/28/Bankruptcy_adobe.png?height=667&t=1682699472&width=1080)
 
