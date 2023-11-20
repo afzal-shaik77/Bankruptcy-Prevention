@@ -39,9 +39,3 @@ The dataset consists of the following variables:
 development.
 4. Execute the classification model using the code in the src/ directory.
 
-## Model Evaluation
-Provide information on how the model was evaluated, including performance metrics and any insights gained from the evaluation process.
-
-## Conclusion
-Summarize the findings and conclusions from the project. Discuss the implications and potential applications of the bankruptcy prediction model.
-
